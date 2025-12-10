@@ -3,7 +3,7 @@
 ## Take-Home Final – Northeastern University
 
 **Author: Sumer**
-
+**GitHub Repository:** https://github.com/SumerThakur1771/fitness-rl-optimizer
 ---
 
 ## Project Overview
