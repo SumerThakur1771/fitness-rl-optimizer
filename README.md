@@ -74,7 +74,12 @@ fitness_rl_optimizer/
 │   └── learning_curve_exercises.png
 │
 ├── requirements.txt
+├── TechnicalDocumentation.pdf
+├── PPT.pdf
+├── VideoDemonstration.mp4
+├── requirements.txt
 └── README.md
+
 ```
 
 ---
