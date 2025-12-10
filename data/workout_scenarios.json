@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "user_goal": "Build muscle (bulking)",
+    "time_available": 60,
+    "fitness_level": "intermediate",
+    "equipment": "full_gym",
+    "best_category": "strength",
+    "good_categories": ["compound"],
+    "bad_categories": ["cardio", "flexibility"]
+  },
+  {
+    "id": 2,
+    "user_goal": "Lose weight (cutting)",
+    "time_available": 45,
+    "fitness_level": "beginner",
+    "equipment": "bodyweight",
+    "best_category": "cardio",
+    "good_categories": ["hiit"],
+    "bad_categories": ["strength"]
+  },
+  {
+    "id": 3,
+    "user_goal": "General fitness maintenance",
+    "time_available": 50,
+    "fitness_level": "intermediate",
+    "equipment": "home_gym",
+    "best_category": "compound",
+    "good_categories": ["strength", "cardio"],
+    "bad_categories": ["isolation"]
+  },
+  {
+    "id": 4,
+    "user_goal": "Athletic performance",
+    "time_available": 75,
+    "fitness_level": "advanced",
+    "equipment": "full_gym",
+    "best_category": "compound",
+    "good_categories": ["plyometric", "strength"],
+    "bad_categories": ["flexibility"]
+  },
+  {
+    "id": 5,
+    "user_goal": "Improve flexibility",
+    "time_available": 30,
+    "fitness_level": "beginner",
+    "equipment": "bodyweight",
+    "best_category": "flexibility",
+    "good_categories": ["yoga"],
+    "bad_categories": ["strength", "cardio"]
+  },
+  {
+    "id": 6,
+    "user_goal": "Quick HIIT workout",
+    "time_available": 20,
+    "fitness_level": "intermediate",
+    "equipment": "bodyweight",
+    "best_category": "hiit",
+    "good_categories": ["cardio"],
+    "bad_categories": ["strength", "flexibility"]
+  },
+  {
+    "id": 7,
+    "user_goal": "Rehabilitation/recovery",
+    "time_available": 40,
+    "fitness_level": "beginner",
+    "equipment": "home_gym",
+    "best_category": "flexibility",
+    "good_categories": ["low_impact"],
+    "bad_categories": ["hiit", "compound"]
+  },
+  {
+    "id": 8,
+    "user_goal": "Bodybuilding (hypertrophy)",
+    "time_available": 90,
+    "fitness_level": "advanced",
+    "equipment": "full_gym",
+    "best_category": "isolation",
+    "good_categories": ["strength"],
+    "bad_categories": ["cardio", "flexibility"]
+  }
+]
